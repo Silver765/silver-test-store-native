@@ -4,7 +4,7 @@ tagline: CPU, RAM, storage stats and fan control for your home server
 description: >-
   Scratch copy of Silver's HW Monitor in 5tratumOS's own store format, used to
   test how app updates behave for custom stores. Safe to delete.
-version: 1.4.1
+version: 1.4.2
 category: Monitoring
 developer: Silver765
 website: https://github.com/Silver765/silvers-hw-monitor

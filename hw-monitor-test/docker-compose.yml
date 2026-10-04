@@ -13,3 +13,4 @@ services:
       - SYS_RAWIO
     environment:
       PORT: "3300"
+      TEST_RELEASE: "1.4.2"
